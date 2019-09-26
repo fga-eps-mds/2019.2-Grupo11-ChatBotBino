@@ -14,18 +14,18 @@
 
 <h2>Documento de Visão</h2>
 
-[Acesso ao Documento de Visão](https://github.com/ChatBot-Bino/Bot-Bino/wiki/Documento-de-Vis%C3%A3o)
+[Acesso ao Documento de Visão](https://github.com/ChatBot-Bino/Chatbot-Bino/wiki/Documento-de-Vis%C3%A3o)
 
 <h2>Documento TAP</h2>
 
-[Acesso ao TAP](https://github.com/ChatBot-Bino/Bot-Bino/wiki/TAP---Termo-de-Abertura-do-Projeto)
+[Acesso ao TAP](https://github.com/ChatBot-Bino/Chatbot-Bino/wiki/TAP---Termo-de-Abertura-do-Projeto)
 
 <h2>Integrantes da Equipe</h2>
 
 | Membro | Usuário Git | E-mail |
 | --- | --- | --- |
 | Daniel Barcelos Moreira | @daniel-bm | danielbarcelos.7@hotmail.com |
-| Henrique Amorim Costa Melo | @henriqueamorim20 | |
+| Henrique Amorim Costa Melo | @henriqueamorim20 | hacmelo@gmail.com |
 | Iago Oliveira Monteiro Ribeiro | @iagoomr |  iagorag363@gmail.com |
 | Irwin Schmitt | @irwinschmitt | irwinschmitt@gmail.com |
 | Paulo Gonçalves Lima | @paulogoncalveslima | paulogoncalves436@gmail.com |
