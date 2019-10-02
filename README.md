@@ -4,6 +4,8 @@
 
 <h2>Descrição do Projeto</h2>
 
+[README](https://github.com/ChatBot-Bino/Chatbot-Bino/blob/restart/README.md)
+
 <h2>Repositorio do projeto</h2>
   
 [ChatBot Bino](https://github.com/ChatBot-Bino)
