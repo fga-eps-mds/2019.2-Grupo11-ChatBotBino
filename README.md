@@ -1,6 +1,6 @@
 <h1>Bem vindo ao ChatBot Bino</h1>
 
-<p>Aqui estão organizados todas as informações necessárias sobre o ChatBot Bino. Esse projeto foi desenvolvido pela equipe da matéria de Método de Desenvolvimento de Software, turma 2019/2 da Universidade de Brasília.</p>
+<p>Aqui está o link para o repositorio do projeto Chatbot Bino desenvolvido pelo grupo 11 da matéria de MDS - 2019/2</p>
 
 <h2>Repositorio do projeto</h2>
   
